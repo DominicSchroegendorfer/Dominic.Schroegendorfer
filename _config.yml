@@ -18,18 +18,34 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+
+
 title: Dominic Schroegendorfer
 email: Dominic.Schroegendorfer@gmail.com
+
+
 description: >- # this means to ignore newlines until "baseurl:"
   Ob mutig oder naiv - in der Blütezeit von Corona habe ich mich als Diplom-Mathematiker, Lean + Six Sigma Black Belt und Data Scientist selbstständig gemacht.
-  Mit begeisterung kitzle ich Verborgenes aus Daten, blogge auf [denkenswert](https://denkenswert.de) und spiele Starfinder.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Mit Begeisterung kitzle ich Verborgenes aus Daten, blogge auf [denkenswert](https://denkenswert.de) und spiele Starfinder.
+
+
+
+#remote tests:
+#baseurl:""
+
+#gh-pages hosting:
+baseurl: "dominicschroegendorfer.github.io/Dominic.Schroegendorfer/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+
+
 #twitter_username: jekyllrb
 github_username:  DominicSchroegendorfer
 
 # Build settings
-theme: minima
+#theme: minima
+theme: minimal
 #theme: jekyll-theme-slate
 plugins:
   - jekyll-feed

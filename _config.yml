@@ -31,10 +31,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 
 #remote tests:
-#baseurl:""
+#baseurl: ""
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #gh-pages hosting:
-baseurl: "dominicschroegendorfer.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "dominic.schroegendorfer" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
@@ -44,8 +45,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  DominicSchroegendorfer
 
 # Build settings
-#theme: minima
-theme: minimal
+theme: minima
+#theme: minimal
 #theme: jekyll-theme-slate
 plugins:
   - jekyll-feed

@@ -35,7 +35,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 #gh-pages hosting:
-baseurl: "dominic.schroegendorfer" # the subpath of your site, e.g. /blog
+baseurl: "/dominic.schroegendorfer" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 

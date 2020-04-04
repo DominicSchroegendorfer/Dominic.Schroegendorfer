@@ -6,8 +6,8 @@ permalink: /impressum/
 
 Angaben gemäß § 5 TMG
 
-Dominic Schrögendorfer
-Herrenstraße 11
+Dominic Schrögendorfer, 
+Herrenstraße 11, 
 79232 March
 
 ## Kontakt

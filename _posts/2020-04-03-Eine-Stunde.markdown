@@ -2,7 +2,7 @@
 layout: post
 title:  "Eine Stunde"
 date:   2020-04-03 15:24:18 +0200
-categories: jekyll update
+categories: jekyll
 ---
 Schon in meinen Jahren als Linux-Sys-Admin und Patch-Knecht war die goldene Regel: 
 Jedes erste Mal braucht mindestens eine Stunde. Nun sitze ich schon sein Tagen daran, ein ordentliches Theme für meine eigene Seite aufzuziehen.

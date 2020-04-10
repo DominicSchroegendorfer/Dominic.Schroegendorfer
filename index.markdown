@@ -4,3 +4,12 @@
 
 layout: home
 ---
+
+![test](./images/cup-of-time.jpg "A cup of time")
+
+Ob Aus-, Nach- oder Vor-, alle [Frei-Denker][denkenswert] sind hier Willkommen.
+
+
+
+
+[denkenswert]: https://denkenswert.net/

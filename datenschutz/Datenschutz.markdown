@@ -2,6 +2,7 @@
 layout: page
 title: Datenschutzerklärung
 permalink: /Datenschutz/
+show_in_nav: false
 ---
 
 Wir freuen uns über Ihr Interesse an unserer Website. Der Schutz Ihrer personenbezogenen Daten bei der Erhebung, Verarbeitung und Nutzung anlässlich Ihres Besuchs auf unserer Website ist uns ein wichtiges Anliegen.

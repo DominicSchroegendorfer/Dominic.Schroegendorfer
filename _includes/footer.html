@@ -3,27 +3,36 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+<!-- Title of Footer -->
+    <h2 class="footer-heading">
+	{{ site.title | escape }}
+    </h2>
 
+<!-- Subtitle -> Page description added -->
+    <p align="center">
+	<em> {{- site.description | escape -}} </em>
+    </p>
+
+<!-- three columns of footer -->
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-      
-      <div class="footer-col footer-col-2">
+
+<!-- 1 mailto -->
+        <p align="left"> <a class="u-email" href="mailto:{{ site.email }}">Kontakt</a> </p>
       </div>
 
+<!-- 2 Impressum -->
+      <div class="footer-col footer-col-2">
+	<p align="center">
+	  <a href="impressum/"> Impressum </a>
+	</p>
+      </div>
+      
+<!-- 3 Datenschutz -->
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+	<p align="right">
+	  <a href="datenschutz/"> Datenschutz </a>
+	</p>
       </div>
     </div>
 

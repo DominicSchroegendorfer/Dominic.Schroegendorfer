@@ -1,0 +1,12 @@
+---
+layout: post
+title: Messing around with post layout
+subtitle: Customizing Jekyll Layout ist einfach! Bis jetzt ging noch nix kaputt!
+categories: jekyll homepage
+---
+
+test
+
+test
+
+test

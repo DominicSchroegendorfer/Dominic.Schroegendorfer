@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "10 rauchende Köpfe"
+subtitle: "Methodischer Heroismus gefragt bei Werstromanalysen"
 date:   2020-04-10
 categories: Lean SixSigma Wertstromanalyse
 ---
@@ -13,7 +14,7 @@ So, dachte ich, ist das doch eine noble Geste, einen ehrenwerten Gast zu behande
 Vermutung und Frage sind am Ende doch die heißgehüteten Schätze des mathematischen Handwerkes.
 
 In meinem aktuellen Handwerk als selbst stehender Wertströmer sah ich mich mit dem Führungsteam einer Produktion schnell mit einer Vielzahl an ungelösten Fragen konfrontiert.
-Methoische Herausforderungen, didaktische Fragen wie auch Kniffe des Entertrainings sind gefordert.
+Methoische Heroismus, didaktischer Wadenbeißer und auch Entertrainings sind gefordert.
 Und: Eine wesentliche Erkenntnis bleibt mir zur Wertstrom-Methode.
 
 Die Grundgedanken mögen Allgemeinbildung des modernen Wertschöpfers sein.

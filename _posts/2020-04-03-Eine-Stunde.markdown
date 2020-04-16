@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Eine Stunde"
+subtitle: "Linux kann alles, aber auch immer mit ein paar ersten Kniffen..."
 date:   2020-04-03 15:24:18 +0200
 categories: jekyll
 ---

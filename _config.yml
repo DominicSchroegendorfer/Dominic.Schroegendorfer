@@ -33,7 +33,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #baseurl added for gh-pages hosting 
 #remote testing still running via http://127.0.0.1:4000/Dominic.Schroegendorfer/
 #baseurl: "/Dominic.Schroegendorfer" # the subpath of your site, e.g. /blog
-url: "https://Dominic-Schroegendorfer.de" # the base hostname & protocol for your site, e.g. http://example.com
+url: "info.Dominic-Schroegendorfer.de" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 

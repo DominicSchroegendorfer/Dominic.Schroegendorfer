@@ -5,8 +5,24 @@ subtitle: Customizing Jekyll Layout ist einfach! Bis jetzt ging noch nix kaputt!
 categories: jekyll homepage
 ---
 
-test
+Auf der Basis der Layouts und Includes des Themes minima habe ich jetzt Kopf- und Fusszeile angepasst. Preferierte Methoden:
 
-test
+1. Nach Problem googlen und Codeschnipsel kopieren
+2. Code-Raten und in den verschiedenen Dateien hin und her schieben 
+3. Html-Cheat-Sheets überfliegen 
+4. Andere Jekyll/GitHub-Themes studieren 
 
-test
+---
+
+Nächste Homepage-Projektchen auf meiner Liste:
+
+- relative-url im footer von Impressum und Datenschutz anpassen -- Done
+- Publishing per Custom Domain www.Dominic-Schroegendorfer.de
+- Neuigkeiten werden auf 5 beschränkt und es gibt eine eigene Neuigkeiten-Seite mit allen posts
+- Für berufliche Projekte wird ein zweiter Blog ergänzt und bekommt auch eine eigene Seite
+- Berufliche Expertisen bekommen einzelne Seiten.
+- Rumspielen mit Farb-Schemas
+- Anpassen der 404
+- für Posts eine not-published-Status ergänzen
+
+Tja. aber um den wichtigsten Schritt drücke ich mich gerade - Das Schreiben von gutem Content.

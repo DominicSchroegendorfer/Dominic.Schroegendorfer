@@ -6,7 +6,7 @@ date:   2020-04-10
 categories: Lean SixSigma Wertstromanalyse
 ---
 
-![PicWaste](/Dominic.Schroegendorfer/images/waste-recycle.jpg "Verschwendung - das wahre Gold des Problemlösers!")
+![PicWaste](/images/waste-recycle.jpg "Verschwendung - das wahre Gold des Problemlösers!")
 
 Als Mathematikstudent im allwöchentlichen Kolloquium wurde ich neben meinem Hang zu mentalem Masuchismus auf ein bemerkenswertes Phänomen aufmerksam:
 Auch nach dem unverständlichsten Beweis einer Poincaré-Vermutung kommentierten anwesende Professoren mit weiterführenden Vermutungen oder gar ergänzenden Fragestellungen.

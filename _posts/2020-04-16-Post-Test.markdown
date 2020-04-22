@@ -17,7 +17,7 @@ Auf der Basis der Layouts und Includes des Themes minima habe ich jetzt Kopf- un
 Nächste Homepage-Projektchen auf meiner Liste:
 
 - relative-url im footer von Impressum und Datenschutz anpassen -- Done
-- Publishing per Custom Domain www.Dominic-Schroegendorfer.de
+- Publishing per Custom Domain www.Dominic-Schroegendorfer.de -- Done
 - Neuigkeiten werden auf 5 beschränkt und es gibt eine eigene Neuigkeiten-Seite mit allen posts
 - Für berufliche Projekte wird ein zweiter Blog ergänzt und bekommt auch eine eigene Seite
 - Berufliche Expertisen bekommen einzelne Seiten.

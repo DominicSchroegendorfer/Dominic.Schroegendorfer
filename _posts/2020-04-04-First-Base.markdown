@@ -6,7 +6,7 @@ date:   2020-04-04 22:08:42 +0200
 categories: jekyll
 ---
 
-![FirstBase](/Dominic.Schroegendorfer/images/dark-bulp.jpg "First glimpse on senselessness.")
+![FirstBase](/images/dark-bulp.jpg "First glimpse on senselessness.")
 
 Stolz wie Hoshi und Ahnungslos wie Hase!
 Beide Gefühle vermischen sich in mir, wenn ich meine auf minimal gemoddete Homepage veröffentlich auf GitHub sehe.

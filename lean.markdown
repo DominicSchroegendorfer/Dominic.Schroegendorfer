@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Lean from Scratch
+title: Lean Management
 permalink: /LeanManagement/
+order: 3
 ---
 
 ![PicLeanTools](/images/lean_tools.jpg "Die Lösung liegt im Problem.")

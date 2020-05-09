@@ -2,7 +2,11 @@
 layout: page
 title: Über mich
 permalink: /about/
+order: 1
 ---
+
+![PicDominic](/images/Dominic1.jpg)
+
 
 ## Lean - Six Sigma - Data Science
 
